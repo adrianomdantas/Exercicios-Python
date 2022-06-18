@@ -1,7 +1,7 @@
-# Exercicios Python  
+# Python  
 
 
-Este repositório é dedicado ao aorendizado de Python
+## Este repositório é dedicado ao porendizado de Python
 
 [Aula1](AulasGuanabara/Aula1.md)
 
