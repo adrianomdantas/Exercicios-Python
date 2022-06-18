@@ -1,3 +1,3 @@
-[Menu Principal](/README/))
+[Menu Principal](/README)
 # teste
 ## teste
