@@ -1,4 +1,3 @@
-# Python  
 ![](/Imagens/LogoPython.jpg)
 
 ## Este repositório é dedicado ao porendizado de Python
