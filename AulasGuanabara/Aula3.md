@@ -6,9 +6,9 @@ Para você conseguir falar co o computador, precisa de um interprete, e este int
 Abra o prompt de comando e digite ```python --version``` para checar se o pythons está instalado e qual a versão, caso não esteja instalado, abra o site oficial do Python *python.org* na aba *Downloads*  
 ![](/Imagens/aula3-img01.png)  
 Na aba Downloads já aparecerá a opção mais adequada a ser baixada  
-![](/Imagens/aula3-img02)  
+![](/Imagens/aula3-img02.png)  
 Clique em *Install Now* mas antes deixe a opção *Add Python 3.6 to PATH* selecionada para que 
-![](aula3-img03.png)
+![](/Imagens/aula3-img03.png)
 Seré solicitaro uma autorização para você instalar no seu computador, é só autorizar ( **importante baixar apenas do site oficial** ) e pronto, você já pode começar a prender a programar em python  
 VOcê pode digitar *python* ditretamente no seu prompt de comando ou abrir o *IDLE* que é uma interface para programar.  
 
