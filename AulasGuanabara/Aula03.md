@@ -1,6 +1,6 @@
-[Anterior](Aula02.md) | [Menu Principal](/README.md/) | [próximo](Aula04.md)
+[Anterior](Aula02.md) | [Menu Principal](/README.md/) | [Próximo](Aula04.md)
 
-# Instalando o Python3  
+# Instalando Python3 e o IDLE  
 
 Para você conseguir falar co o computador, precisa de um interprete, e este interprete será uma linguagem de programação, logo, você terá que nstalar o python no seu computador se você nao estiver usando um linux.  
 Abra o prompt de comando e digite ```python --version``` para checar se o pythons está instalado e qual a versão, caso não esteja instalado, abra o site oficial do Python *python.org* na aba *Downloads*  

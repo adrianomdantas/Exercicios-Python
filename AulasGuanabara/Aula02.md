@@ -1,4 +1,4 @@
-[Anterior](Aula01.md) | [Menu Principal](/README.md/) | [próximo](Aula03.md)
+[Anterior](Aula01.md) | [Menu Principal](/README.md/) | [Próximo](Aula03.md)
 
 # Para que serve Python  
 

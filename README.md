@@ -4,7 +4,7 @@
 
 - [**Porque ser um programador?**](AulasGuanabara/Aula01.md) 
 - [**Para que serve Python**](AulasGuanabara/Aula02.md)   
-- [**Instalando Python**](AulasGuanabara/Aula03.md)   
+- [**Instalando Python3 e o IDLE**](AulasGuanabara/Aula03.md)   
 - [**Primeiros comandos em Python3**](AulasGuanabara/Aula04.md)   
 - [**Em construção**](AulasGuanabara/Aula05.md) 
 - [**Em construção**](AulasGuanabara/Aula06.md)   
