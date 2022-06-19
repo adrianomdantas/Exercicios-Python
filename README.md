@@ -1,4 +1,4 @@
-![](/Imagens/LogoPython.png)
+![](/Imagens/LogoPython.jpg)
 
 ## Este repositório é dedicado ao aprendizado de Python
 
