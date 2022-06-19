@@ -1,8 +1,8 @@
 ![](/Imagens/LogoPython.jpg)
 
-## Este repositório é dedicado ao porendizado de Python
+## Este repositório é dedicado ao aprendizado de Python
 
-[Aula 01](AulasGuanabara/Aula01.md) **Porque ser um programador?**  
+[**Porque ser um programador?**](AulasGuanabara/Aula01.md) **Porque ser um programador?**  
 [Aula 02](AulasGuanabara/Aula02.md) **Para que serve Python**  
 [Aula 03](AulasGuanabara/Aula03.md) **Instalando Python**  
 [Aula 04](AulasGuanabara/Aula04.md) **Primeiros comandos em Python3**  
@@ -18,7 +18,3 @@
 [Aula 14](AulasGuanabara/Aula14.md) **Em construção**  
 [Aula 15](AulasGuanabara/Aula15.md) **Em construção**  
 [Aula 16](AulasGuanabara/Aula16.md) **Em construção**  
-
-
-
-
