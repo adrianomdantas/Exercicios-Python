@@ -5,7 +5,7 @@
 
 [Aula 1](AulasGuanabara/Aula1.md) **Porque ser um programador?**  
 [Aula 2](AulasGuanabara/Aula1.md) **Para que serve Python**  
-[Aula 3](AulasGuanabara/Aula1.md) **Em construção**  
+[Aula 3](AulasGuanabara/Aula1.md) **Instalando Python**  
 [Aula 4](AulasGuanabara/Aula1.md) **Em construção**  
 [Aula 5](AulasGuanabara/Aula1.md) **Em construção**  
 [Aula 6](AulasGuanabara/Aula1.md) **Em construção**  
