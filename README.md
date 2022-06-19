@@ -1,5 +1,5 @@
 # Python  
-![]()
+![](/Imagens/LogoPython.jpg)
 
 ## Este repositório é dedicado ao porendizado de Python
 
@@ -23,7 +23,3 @@
 
 
 
-
-![](/Imagens/icone_python_amarelo.png)
-
-![](/Imagens/icone_python_preto.png)
