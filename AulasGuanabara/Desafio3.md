@@ -1,3 +1,7 @@
 [Anterior](Desafio2.md) | [Menu Principal](/README.md/) | [Próximo](Desafio4.md)
 
-Crie um script Python que leia dois números e mostra a soma entre eles
+# Desafio 3  
+
+Crie um script Python que leia dois números e mostra a soma entre eles  
+
+[Desafio resolvido](/Exercicios-Python/Desafio003.py)

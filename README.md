@@ -2,14 +2,14 @@
 
 ## Este repositório é dedicado ao aprendizado de Python
 
-- [**Porque ser um programador?**](AulasGuanabara/Aula01.md) 
+- [**Seja um programador**](AulasGuanabara/Aula01.md) 
 - [**Para que serve Python**](AulasGuanabara/Aula02.md)   
 - [**Instalando Python3 e o IDLE**](AulasGuanabara/Aula03.md)   
 - [**Primeiros comandos em Python3**](AulasGuanabara/Aula04.md)  
   - [Desafio 1](AulasGuanabara/Desafio1.md)
-  - [Desafio 1](AulasGuanabara/Desafio1.md)
-  - [Desafio 1](AulasGuanabara/Desafio1.md)
-- [**Em construção**](AulasGuanabara/Aula05.md) 
+  - [Desafio 2](AulasGuanabara/Desafio2.md)
+  - [Desafio 3](AulasGuanabara/Desafio3.md)
+- [**Instalando o PyCharm e o QPython3**](AulasGuanabara/Aula05.md) 
 - [**Em construção**](AulasGuanabara/Aula06.md)   
 - [**Em construção**](AulasGuanabara/Aula07.md)  
 - [**Em construção**](AulasGuanabara/Aula08.md)  
