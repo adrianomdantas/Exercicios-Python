@@ -7,6 +7,8 @@
 - [**Instalando Python3 e o IDLE**](AulasGuanabara/Aula03.md)   
 - [**Primeiros comandos em Python3**](AulasGuanabara/Aula04.md)  
   - [Desafio 1](AulasGuanabara/Desafio1.md)
+  - [Desafio 1](AulasGuanabara/Desafio1.md)
+  - [Desafio 1](AulasGuanabara/Desafio1.md)
 - [**Em construção**](AulasGuanabara/Aula05.md) 
 - [**Em construção**](AulasGuanabara/Aula06.md)   
 - [**Em construção**](AulasGuanabara/Aula07.md)  
