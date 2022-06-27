@@ -4,4 +4,4 @@
 
 Crie um script Python que leia dois números e mostra a soma entre eles  
 
-[Desafio resolvido](/Exercicios-Python/Desafios/desafio003.py/)
+[Desafio resolvido](/Desafios/desafio003.py/)
