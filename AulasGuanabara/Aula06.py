@@ -1,0 +1,5 @@
+n = input('Digite um valor: ')
+print(f'o conteúdo da variável é numero? {n.isnumeric()}')
+print(f'o conteúdo da variável é letra? {n.isalpha()}')
+print(f'o conteúdo da variável é alfanumerico? {n.isalnum()}')
+print(f'o conteúdo da variável é mainúsculo? {n.isupper()}')
