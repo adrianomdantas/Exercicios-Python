@@ -35,9 +35,9 @@ Alguns exemplos
 |4|+ -|
 
 Exemplos:  
-5 + 3 * 2 == 11
-3 * 5 + 4 ** 2 == 31
-3 * (5 + 4) ** 2 == 243 
+5 + 3 * 2 == 11  
+3 * 5 + 4 ** 2 == 31  
+3 * (5 + 4) ** 2 == 243   
 
 **Calculando Raiz Quadrada ou Cubica**  
 
