@@ -29,9 +29,9 @@ TypeError: can only concatenate str (not "int") to str
 >>> print('olá',5)
 olá 5
 ```
-Como deu para perceber, o símbolo '+' serve para uma função a parte de somar, serve para juntar 2 strings, assim como a vírgula ',' também, porém a vírgila não junta doistipos diferentes de dados, neste caso é necessário usar o '+'.  
+Como deu para perceber, o símbolo '+' serve para uma função a parte de somar, serve para concatenar 2 strings, assim como a vírgula ',' também, porém a vírgila não junta dois tipos diferentes de dados, neste caso é necessário usar o '+'.  
 
-Usand um pouco mais de variáveis agora  
+Usando um pouco mais de variáveis agora e aprendendo que o sinal de **=** não serve para mostrar igualdade, e sim como um receba  
 ```
 >>> idade = 42
 >>> peso = 65
