@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Anterior](Aula06.md) | [Menu Principal](/README.md/) | [Próximo](Aula08.md)
-
-# Operadores Aritméticos
-
-=======
 [Anterior](Aula06.md) | [Menu Principal](/README.md/) | [Próximo](Aula08.md)
 
 # Operadores Aritméticos  
@@ -100,4 +94,4 @@ print('Divisão inteira {} e potência {}'.format(di, e))
 ```
  
 [Exemplos Aula 07](Aula07.py)
->>>>>>> 10f954f6cc81cbf5bf914bbf626ae089c4539b32
+
