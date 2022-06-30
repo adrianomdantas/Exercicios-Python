@@ -2,6 +2,6 @@
 
 # Desafio 14
 
-
+Escreva um programa que converta uma temperatura digitada em °c para °f
 
 [Desafio resolvido](/Desafios/desafio014.py/)
