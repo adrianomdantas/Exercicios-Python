@@ -1,0 +1,12 @@
+
+num = int(input('Digite um numero para ver sua tabuada: '))
+print(f'{num:3} X  1 ={num * 1:>4}')
+print(f'{num:3} X  2 ={num * 2:>4}') 
+print(f'{num:3} X  3 ={num * 3:>4}')
+print(f'{num:3} X  4 ={num * 4:>4}')
+print(f'{num:3} X  5 ={num * 5:>4}')
+print(f'{num:3} X  6 ={num * 6:>4}')
+print(f'{num:3} X  7 ={num * 7:>4}')
+print(f'{num:3} X  8 ={num * 8:>4}')
+print(f'{num:3} X  9 ={num * 9:>4}')
+print(f'{num:3} X 10 ={num * 10:>4}')
