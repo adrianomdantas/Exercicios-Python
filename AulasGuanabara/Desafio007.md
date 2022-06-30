@@ -1,4 +1,4 @@
-[Anterior](Desafio006.md) | [Menu Principal](/README.md/) | [Próximo](desafio008.md)
+[Anterior](Desafio006.md) | [Menu Principal](/README.md/) | [Próximo](Desafio008.md)
 
 # Desafio 7
 
