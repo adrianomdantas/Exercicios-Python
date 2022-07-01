@@ -38,11 +38,11 @@ Repare que agora eu não precisei usar math.sqrt() e sim usei direto o sqrt() de
 E como descobrir as bibliotecas que podemos importar?  
 Basta você ir em [python.org](https://www.python.org/) e clicar em Documentation  
 ![](/Imagens/imgaula8doc01.png)  
-Depois cliet=que neste botão amarelo python docs
+Depois cliet=que neste botão amarelo python docs  
 ![](/Imagens/imgaula8doc02.png)  
 Agora é só escolher a versão do python que você quer e clicar em **Library Reference**  
 ![](/Imagens/imgaula8doc03.png)  
-Pronto, aqui é um mundo gigantesco a se explorar
+Pronto, aqui é um mundo gigantesco a se explorar  
 ![](/Imagens/imgaula8doc04.png)  
 
 Apesar de ser muito difícil nao tere algum modulo pronto, você pode fazer um e disponibilizar na internet para outras pessoas utilizarem assim como você pode usar qualquer biblioteca que esteja disponível, porém, se você for usar alguma biblioteca que já não venha nativo com o python (bibliotecas externas), será necessário instalar a biblioteca que você pretende usar, geralmente assim que você importar a biblioteca, o proprio console que você estiver usando (Pycarm, Visual Code, etc ...) vai te ajudar a instalar.
