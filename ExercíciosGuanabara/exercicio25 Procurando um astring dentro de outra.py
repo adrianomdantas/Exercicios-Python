@@ -1,5 +1,5 @@
-nome = input('Digite seu nome: ')
-if nome.find('silva') >= 0:
-  print('seu nome tem silva')
+nome = input('Digite seu nome: ').upper()
+if nome.find('SILVA') >= 0:
+  print('seu nome tem Silva')
 else:
-  print('seu nome nao tem silva')
+  print('seu nome nao tem Silva')
