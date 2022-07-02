@@ -2,6 +2,6 @@
 
 # Desafio 17  
 
-Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, caldule e mostre o comprimento da hipotenusa  
+Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa  
 
 [Desafio resolvido](/Desafios/desafio017.py/)

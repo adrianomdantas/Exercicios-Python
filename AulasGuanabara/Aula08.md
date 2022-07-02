@@ -48,3 +48,4 @@ Pronto, aqui é um mundo gigantesco a se explorar
 Apesar de ser muito difícil nao tere algum modulo pronto, você pode fazer um e disponibilizar na internet para outras pessoas utilizarem assim como você pode usar qualquer biblioteca que esteja disponível, porém, se você for usar alguma biblioteca que já não venha nativo com o python (bibliotecas externas), será necessário instalar a biblioteca que você pretende usar, geralmente assim que você importar a biblioteca, o proprio console que você estiver usando (Pycarm, Visual Code, etc ...) vai te ajudar a instalar.
 
 
+[Exemplos Aula 08](Aula08.py)
