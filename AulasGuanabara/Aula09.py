@@ -1,0 +1,27 @@
+frase = 'Estudar Python'
+print(frase[5])
+print(frase[5:10])
+print(frase[5:14])
+print(frase[5:])
+print(frase[5:14:2])
+print(frase[:5])
+print(len(frase))
+print(frase.count('t'))
+print(frase.count('t',0,10))
+print(frase.find('Py'))
+print(frase.find('Android'))
+print('Estudar' in frase)
+print(frase.replace('Python','programacao'))
+print(frase.upper())
+print(frase.lower())
+print(frase.capitalize())
+print(frase.title())
+print(frase.split())
+separar = frase.split()
+print(separar)
+juntar = '-'.join(separar)
+print(juntar)
+print("""While The Python Language Reference describes the exact syntax and 
+semantics of the Python language, this library reference manual describes the 
+standard library that is distributed with Python. It also describes some of the 
+optional components that are commonly included in Python distributions.""")

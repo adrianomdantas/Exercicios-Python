@@ -14,7 +14,7 @@
   - [Desafio 11](AulasGuanabara/Desafio011.md) | [Desafio 12](AulasGuanabara/Desafio012.md) | [Desafio 13](AulasGuanabara/Desafio013.md) | [Desafio 14](AulasGuanabara/Desafio014.md) | [Desafio 15](AulasGuanabara/Desafio015.md)
 - [**Utilizando Módulos**](AulasGuanabara/Aula08.md)  
   - [Desafio 16](AulasGuanabara/Desafio016.md) | [Desafio 17](AulasGuanabara/Desafio017.md) | [Desafio 18](AulasGuanabara/Desafio018.md) | [Desafio 19](AulasGuanabara/Desafio019.md) | [Desafio 20](AulasGuanabara/Desafio020.md) | [Desafio 21](AulasGuanabara/Desafio021.md)
-- [**Em construção**](AulasGuanabara/Aula009.md)   
+- [**Manipulando Texto**](AulasGuanabara/Aula009.md)   
 - [**Em construção**](AulasGuanabara/Aula010.md)   
 - [**Em construção**](AulasGuanabara/Aula011.md)    
 - [**Em construção**](AulasGuanabara/Aula012.md)   
