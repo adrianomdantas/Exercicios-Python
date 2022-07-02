@@ -45,7 +45,7 @@ print(len(frase))
 ```   
 Poidemos contar os caracteres também com o comando **count()**
 ```
-print(frase.co8nt('t'))
+print(frase.connt('t'))
 >>> 2
 ```  
 E contagem já com fatiamento  
@@ -53,7 +53,7 @@ E contagem já com fatiamento
  print(frase.count('t',0,10))
  >>> 1
 ```  
-Lembrando que COmo o segundo "t" está na posição 10 e o Python não considera a ultima letra  
+Lembrando que, como o segundo "t" está na posição 10 e o Python não considera a ultima letra  
 A função find também é importante  
 ```
 print(frase.find('Py'))
@@ -105,7 +105,11 @@ print(juntar)
 
 Função **print()** para texto, para printar na tela um texto inteiro, basta usar 3 aspas duplas como no exemplo  
 ```
-print("""While The Python Language Reference describes the exact syntax and semantics of the Python language, this library reference manual describes the standard library that is distributed with Python. It also describes some of the optional components that are commonly included in Python distributions.""")
+print("""While The Python Language Reference describes 
+the exact syntax and semantics of the Python language, 
+this library reference manual describes the standard library 
+that is distributed with Python. It also describes some of the 
+optional components that are commonly included in Python distributions.""")
 ```
 
 
