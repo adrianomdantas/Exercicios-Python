@@ -2,7 +2,7 @@
 
 # Desafio 27  
 
-Faça um programa que leia o nome completo de uma pessoa mostrando em seguia o primeiro e o ultimo nome separadamente  
+Faça um programa que leia o nome completo de uma pessoa mostrando em seguida o primeiro e o ultimo nome separadamente  
 Ex: Fulano Ciclano Silva  
 Primeiro nome: Fulano
 Ultimo nome: Silva
