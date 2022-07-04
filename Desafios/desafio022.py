@@ -1,0 +1,8 @@
+nome = input('Digite seu nome inteiro: ')
+print(f'Letras maiusculas: {nome.upper()}')
+print(f'Letras minusculas: {nome.lower()}')
+tamanho_nome = len(nome)
+espacos = nome.count(' ')
+separado = nome.split()
+print(f'O seu nome tem {tamanho_nome - espacos} letras')
+print(f'O seu primeiro nome tem {len(separado[0])} letras')
