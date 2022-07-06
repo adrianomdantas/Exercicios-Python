@@ -1,6 +1,3 @@
-from cgi import print_form
-
-
 print('\033[0;30;41mOlá Mundo!\033[m ')
 print('\033[4;33;42mOlá Mundo!\033[m')
 print('\033[1;35;43mOlá Mundo!\033[m')
