@@ -21,12 +21,23 @@
 - [**Condições (Parte 1)**](AulasGuanabara/Aula10.md) 
   - [Desafio 28](AulasGuanabara/Desafio028.md) | [Desafio 29](AulasGuanabara/Desafio029.md) | [Desafio 30](AulasGuanabara/Desafio030.md) | [Desafio 31](AulasGuanabara/Desafio031.md) | [Desafio 32](AulasGuanabara/Desafio032.md) | [Desafio 33](AulasGuanabara/Desafio033.md)
   - [Desafio 34](AulasGuanabara/Desafio034.md) | [Desafio 35](AulasGuanabara/Desafio035.md)   
+- [**Cores no Terminal**](AulasGuanabara/Aula11.md)  
 
 ###   Estruturas de Controle
 
-- [**Em construção**](AulasGuanabara/Aula11.md)    
-- [**Em construção**](AulasGuanabara/Aula12.md)   
+- [**Condições Aninhadas**](AulasGuanabara/Aula12.md)       
 - [**Em construção**](AulasGuanabara/Aula13.md)   
 - [**Em construção**](AulasGuanabara/Aula14.md)   
-- [**Em construção**](AulasGuanabara/Aula15.md)  
-- [**Em construção**](AulasGuanabara/Aula16.md)   
+- [**Em construção**](AulasGuanabara/Aula15.md) 
+
+###   Estruturas Compostas  
+
+- [**Em construção**](AulasGuanabara/Aula16.md)  
+- [**Em construção**](AulasGuanabara/Aula17.md)
+- [**Em construção**](AulasGuanabara/Aula18.md)
+- [**Em construção**](AulasGuanabara/Aula19.md)
+- [**Em construção**](AulasGuanabara/Aula20.md)
+- [**Em construção**](AulasGuanabara/Aula21.md)
+- [**Em construção**](AulasGuanabara/Aula22.md)
+- [**Em construção**](AulasGuanabara/Aula23.md)
+ 
