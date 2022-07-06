@@ -7,6 +7,6 @@ print('\033[7;30mOlá Mundo!\033[m')
 #Usando Dicionário 
 cores = {'limpa':'\033[m','amarelo':'\033[33m','cinza':'\033[7;30m', 'azul':'\033[34m]'}
 print('Olá Mundo {} amarelo {} azul {} '.format(cores['amarelo'], cores['azul'], cores['limpa']))
-#print(f'Olá mundo {cores['amarelo']} Amarelo {cores['azul']} azul {cores['limpa']}')
+#print(f'Olá mundo {cores['amarelo']} Amarelo {cores['azul']} azul {cores['limpa']}')<-- nao funciona assim
 print(cores['azul'])
-print(f'Olá mundo{cores['limpa']}')
+#print(f'Olá mundo{cores['limpa']}') <-- nao funciona assim
