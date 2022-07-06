@@ -22,3 +22,5 @@ if media >= 6.0:
 else:
     print('Sua média foi ruim! ESTUDE MAIS!')
 ```
+
+[Exemplos Aula 10](Aula10.py)
