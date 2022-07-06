@@ -1,6 +1,8 @@
 ![](/Imagens/LogoPython.png)
 
-## Este repositório é dedicado ao aprendizado de Python
+# Este repositório é dedicado ao aprendizado de Python  
+
+### Fundamentos
 
 - [**Seja um programador**](AulasGuanabara/Aula01.md) 
 - [**Para que serve Python**](AulasGuanabara/Aula02.md)   
@@ -19,6 +21,9 @@
 - [**Condições (Parte 1)**](AulasGuanabara/Aula10.md) 
   - [Desafio 28](AulasGuanabara/Desafio028.md) | [Desafio 29](AulasGuanabara/Desafio029.md) | [Desafio 30](AulasGuanabara/Desafio030.md) | [Desafio 31](AulasGuanabara/Desafio031.md) | [Desafio 32](AulasGuanabara/Desafio032.md) | [Desafio 33](AulasGuanabara/Desafio033.md)
   - [Desafio 34](AulasGuanabara/Desafio034.md) | [Desafio 35](AulasGuanabara/Desafio035.md)   
+
+###   Estruturas de Controle
+
 - [**Em construção**](AulasGuanabara/Aula11.md)    
 - [**Em construção**](AulasGuanabara/Aula12.md)   
 - [**Em construção**](AulasGuanabara/Aula13.md)   
