@@ -4,7 +4,7 @@
 
 A condição **"Se"** na lógica de programação, serve para te dar opções do que o programa vai fazer dependendoda situação no momento, por exemplo **Se** seu carro tem mais de 5 anos, **então** ele já não é mais tão novo.  
 ```
-tempo = int(input('Quantos anos tem seu casso? '))
+tempo = int(input('Quantos anos tem seu carro? '))
 if tempo <= 3:
     print('carro novo')
 else:
