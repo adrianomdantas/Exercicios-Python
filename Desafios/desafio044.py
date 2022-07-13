@@ -10,7 +10,7 @@ if opcao == 1:
 elif opcao == 2:
     print(f'O valor do prodto é R${preco:.2f}, com desconto de 5% fica R${preco * 0.95:.2f}')
 elif opcao == 3:
-    print(f'O valor do prodto é R${preco:.2f}')
+    print(f'O valor do prodto é R${preco:.2f}, em 2 parcelas de R${preco / 2:.2f}')
 elif opcao == 4:
     print(f'O valor do prodto é R${preco:.2f}, com juros de 20% fica 3 parcelas de R${(preco * 1.2)/3:.2f}')
 else:
