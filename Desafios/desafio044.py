@@ -12,6 +12,6 @@ elif opcao == 2:
 elif opcao == 3:
     print(f'O valor do prodto é R${preco:.2f}')
 elif opcao == 4:
-    print(f'O valor do prodto é R${preco:.2f}, com juros de 20% fica R${preco * 1.2:.2f}')
+    print(f'O valor do prodto é R${preco:.2f}, com juros de 20% fica 3 parcelas de R${(preco * 1.2)/3:.2f}')
 else:
     print('Opção inválida')
