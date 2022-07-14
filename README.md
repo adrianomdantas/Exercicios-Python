@@ -28,7 +28,7 @@
 - [**Condições Aninhadas**](AulasGuanabara/Aula12.md)  
   - [Desafio 36](AulasGuanabara/Desafio036.md) | [Desafio 37](AulasGuanabara/Desafio037.md) | [Desafio 38](AulasGuanabara/Desafio038.md) | [Desafio 39](AulasGuanabara/Desafio039.md) | [Desafio 40](AulasGuanabara/Desafio040.md) | [Desafio 41](AulasGuanabara/Desafio041.md)
   - [Desafio 42](AulasGuanabara/Desafio042.md) | [Desafio 43](AulasGuanabara/Desafio043.md) | [Desafio 44](AulasGuanabara/Desafio044.md) | [Desafio 45](AulasGuanabara/Desafio045.md)    
-- [**Em construção**](AulasGuanabara/Aula13.md)   
+- [**Estrutura de repetição for**](AulasGuanabara/Aula13.md)   
 - [**Em construção**](AulasGuanabara/Aula14.md)   
 - [**Em construção**](AulasGuanabara/Aula15.md) 
 
