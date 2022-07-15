@@ -29,6 +29,8 @@
   - [Desafio 36](AulasGuanabara/Desafio036.md) | [Desafio 37](AulasGuanabara/Desafio037.md) | [Desafio 38](AulasGuanabara/Desafio038.md) | [Desafio 39](AulasGuanabara/Desafio039.md) | [Desafio 40](AulasGuanabara/Desafio040.md) | [Desafio 41](AulasGuanabara/Desafio041.md)
   - [Desafio 42](AulasGuanabara/Desafio042.md) | [Desafio 43](AulasGuanabara/Desafio043.md) | [Desafio 44](AulasGuanabara/Desafio044.md) | [Desafio 45](AulasGuanabara/Desafio045.md)    
 - [**Estrutura de repetição for**](AulasGuanabara/Aula13.md)   
+  - [Desafio 46](AulasGuanabara/Desafio046.md) | [Desafio 47](AulasGuanabara/Desafio047.md) | [Desafio 48](AulasGuanabara/Desafio048.md) | [Desafio 49](AulasGuanabara/Desafio049.md) | [Desafio 50](AulasGuanabara/Desafio050.md) | [Desafio 51](AulasGuanabara/Desafio051.md)  
+  - [Desafio 52](AulasGuanabara/Desafio052.md) | [Desafio 53](AulasGuanabara/Desafio053.md) | [Desafio 54](AulasGuanabara/Desafio054.md) | [Desafio 55](AulasGuanabara/Desafio055.md) | [Desafio 56](AulasGuanabara/Desafio056.md)
 - [**Em construção**](AulasGuanabara/Aula14.md)   
 - [**Em construção**](AulasGuanabara/Aula15.md) 
 
