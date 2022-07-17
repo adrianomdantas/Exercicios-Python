@@ -39,6 +39,14 @@ while r == 'S':
     r = input('Quer continuar? [s/n]: ').upper()
 print('FIM')
 ```
+Outro exemplo de uso do while é caso não digite o que for solicitado, continue o  loop  
+```
+# .strip() eliminar espaços e 
+#.upper()[0] deixar a letra maiuscula e usar apenas a primeira letra caso o usuario digite mais que uma
 
+sexo = str(input('Digite seu sexo [M / F]: ')).strip().upper()[0] while sexo not in 'MF':
+    sexo = str(input('Opção errada, Digite seu sexo [M / F]: ')).upper()
+print(f'Sexo {sexo} registrado com sucesso')
+```
 
 [Exemplos Aula 14](Aula14.py)
