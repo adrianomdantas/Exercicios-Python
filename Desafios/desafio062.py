@@ -1,4 +1,4 @@
-print('Descuma os 10 primeiros termos de uma PA')
+print('Descuma os termos de uma PA')
 opcao = int(input('Digite um número: '))
 razao = int(input('Digite uma razão: '))
 cont = 0
