@@ -34,7 +34,8 @@
 - [**Estrutura de repetição while**](AulasGuanabara/Aula14.md)
   - [Desafio 57](AulasGuanabara/Desafio057.md) | [Desafio 58](AulasGuanabara/Desafio058.md) | [Desafio 59](AulasGuanabara/Desafio059.md) | [Desafio 60](AulasGuanabara/Desafio060.md) | [Desafio 61](AulasGuanabara/Desafio061.md) | [Desafio 62](AulasGuanabara/Desafio062.md)  
   - [Desafio 63](AulasGuanabara/Desafio063.md) | [Desafio 64](AulasGuanabara/Desafio064.md) | [Desafio 65](AulasGuanabara/Desafio065.md)  
-- [**Em construção**](AulasGuanabara/Aula15.md) 
+- [**Interrompendo repetições while**](AulasGuanabara/Aula15.md) 
+  - [Desafio 66](AulasGuanabara/Desafio066.md) | [Desafio 67](AulasGuanabara/Desafio067.md) | [Desafio 68](AulasGuanabara/Desafio068.md) | [Desafio 69](AulasGuanabara/Desafio069.md) | [Desafio 70](AulasGuanabara/Desafio070.md) | [Desafio 71](AulasGuanabara/Desafio071.md) 
 
 ###   Estruturas Compostas  
 
