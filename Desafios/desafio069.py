@@ -1,7 +1,7 @@
 homem = mulhermenor = maior18 = 0
 while True:
     idade = int(input('Digite a idade: '))
-    sexo = input('Digite oSexi [F/M]: ').upper()
+    sexo = input('Digite o Sexo [F/M]: ').upper()
     while True:
         if sexo not in 'MF':
             sexo = input('Digite oSexi [F/M]: ').upper()
