@@ -6,6 +6,6 @@
   - a) Os 5 primeiros colocados
   - b) Os ultimos 4 colocados da tabela
   - c) Uma lista com os times em ordem alfabética.
-  - d) Em que posição na tabela está o time Chapecoense
+  - d) Em que posição na tabela está o time Santos
 
 [Desafio resolvido](/Desafios/desafio073.py/)
