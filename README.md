@@ -39,7 +39,8 @@
 
 ###   Estruturas Compostas  
 
-- [**Em construção**](AulasGuanabara/Aula16.md)  
+- [**Tuplas**](AulasGuanabara/Aula16.md) 
+  - [Desafio 72](AulasGuanabara/Desafio072.md) | [Desafio 73](AulasGuanabara/Desafio073.md) | [Desafio 74](AulasGuanabara/Desafio074.md) | [Desafio 75](AulasGuanabara/Desafio075.md) | [Desafio 76](AulasGuanabara/Desafio076.md) | [Desafio 77](AulasGuanabara/Desafio077.md)
 - [**Em construção**](AulasGuanabara/Aula17.md)
 - [**Em construção**](AulasGuanabara/Aula18.md)
 - [**Em construção**](AulasGuanabara/Aula19.md)
