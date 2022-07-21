@@ -10,7 +10,7 @@ while True:
         if n not in valores:
             if n > valores[-1]:
                 valores.append(n)
-                print('número dacastrado em ultimo')
+                print('número cadastrado em ultimo')
                 print(20 * "=-")
             else:
                 for p, i in enumerate(valores):
