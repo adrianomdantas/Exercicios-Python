@@ -32,5 +32,5 @@ while True:
                 break
     if opcao == 'N':
         break
-print(f'Você digitou os valores{valores}')
+print(f'Você digitou os valores {valores}')
 
