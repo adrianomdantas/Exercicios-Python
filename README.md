@@ -41,7 +41,8 @@
 
 - [**Tuplas**](AulasGuanabara/Aula16.md) 
   - [Desafio 72](AulasGuanabara/Desafio072.md) | [Desafio 73](AulasGuanabara/Desafio073.md) | [Desafio 74](AulasGuanabara/Desafio074.md) | [Desafio 75](AulasGuanabara/Desafio075.md) | [Desafio 76](AulasGuanabara/Desafio076.md) | [Desafio 77](AulasGuanabara/Desafio077.md)
-- [**Em construção**](AulasGuanabara/Aula17.md)
+- [**Listas (Parte 1)**](AulasGuanabara/Aula17.md)
+  - [Desafio 78](AulasGuanabara/Desafio078.md) | [Desafio 79](AulasGuanabara/Desafio079.md) | [Desafio 80](AulasGuanabara/Desafio080.md) | [Desafio 81](AulasGuanabara/Desafio081.md) | [Desafio 82](AulasGuanabara/Desafio082.md) | [Desafio 83](AulasGuanabara/Desafio083.md)
 - [**Em construção**](AulasGuanabara/Aula18.md)
 - [**Em construção**](AulasGuanabara/Aula19.md)
 - [**Em construção**](AulasGuanabara/Aula20.md)
