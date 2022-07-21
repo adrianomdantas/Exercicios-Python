@@ -27,6 +27,7 @@ while True:
     while True:
             if opcao not in 'SN':
                 opcao = input('Dedeja continuar? [S/N] ').upper()
+                print(20 * "=-")
             else:
                 break
     if opcao == 'N':
