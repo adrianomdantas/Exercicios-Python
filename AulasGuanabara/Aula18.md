@@ -40,22 +40,22 @@ Consultando listas dentro de listas
 print(pessoas[0][0])
 Pedro
 ```
-O primeiro [0] estamos indicando a posição 0 das lista principal e o segindo [0] estamos indicando a posição 0 da lista 'secindária que está na posição 0.
+O primeiro [0] estamos indicando a posição 0 das lista principal e o segundo [0] estamos indicando a posição 0 da lista 'secindária que está na posição 0.
 
 Outro exemplo:  
-´´´
+```
 Pessoas = [['Pedro', 25],['Maria', 19],['João', 32]]
 print(pessoas[2][1])
 32
 ```
 E se não usarmos as duas indicações, o Python vai mostrar tudo que tem na posição:  
-'''
+```
 Pessoas = [['Pedro', 25],['Maria', 19],['João', 32]]
 print(pessoas[1])
 ['Maria', 19]
-'''
+```
 Criando uma lista com dados do teclado
-'''
+```
 gal = list()
 dad = list()
 for i in range(0, 3):
@@ -72,9 +72,9 @@ Idade: 55
 Nome: Daniel
 Idade: 33
 [['João', '32'], ['Maria', '55'], ['Daniel', '33']]
-'''
+```
 Exemplo de mostrar quem é maior de idade e menos de idade
-'''
+```
 for i in gal:
     if i[1] > 18:
         print(f'{i[0]} é maior de idade')
@@ -91,7 +91,7 @@ Idade: 45
 João é maior de idade
 Ana é menor de idade
 Maria é maior de idade
-'''
+```
 
 
 [Exemplos Aula 18](Aula18.py)
