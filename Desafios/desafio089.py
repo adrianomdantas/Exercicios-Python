@@ -27,9 +27,18 @@ while True:
     naluno = int(input('Digite o No do aluno para ver suas notas: [999 para sair] '))
     if naluno == 999:
         break
+    elif naluno >= len(todosalunos):
+        while True:
+            print('Aluno não cadastrado')
+            naluno = int(input('Digite o No do aluno para ver suas notas: [999 para sair] '))
+            if naluno == 999:
+                break
+            
     else:
         print (f'As notas do aluno {todosalunos[naluno][0]} foram {todosalunos[naluno][1]} ')
         print(40 * '-')
+    if naluno == 999:
+        break
 print('FINALIZANDO ...')
 print('<<< VOLTE SEMPRE >>>')
 
