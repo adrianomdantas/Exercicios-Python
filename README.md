@@ -45,7 +45,7 @@
   - [Desafio 78](AulasGuanabara/Desafio078.md) | [Desafio 79](AulasGuanabara/Desafio079.md) | [Desafio 80](AulasGuanabara/Desafio080.md) | [Desafio 81](AulasGuanabara/Desafio081.md) | [Desafio 82](AulasGuanabara/Desafio082.md) | [Desafio 83](AulasGuanabara/Desafio083.md)
 - [**Listas (Parte 2)**](AulasGuanabara/Aula18.md)
   - [Desafio 84](AulasGuanabara/Desafio084.md) | [Desafio 85](AulasGuanabara/Desafio085.md) | [Desafio 86](AulasGuanabara/Desafio086.md) | [Desafio 87](AulasGuanabara/Desafio087.md) | [Desafio 88](AulasGuanabara/Desafio088.md) | [Desafio 89](AulasGuanabara/Desafio089.md)
-- [**Em construção**](AulasGuanabara/Aula19.md)
+- [**Dicionários**](AulasGuanabara/Aula19.md)
 - [**Em construção**](AulasGuanabara/Aula20.md)
 - [**Em construção**](AulasGuanabara/Aula21.md)
 - [**Em construção**](AulasGuanabara/Aula22.md)
