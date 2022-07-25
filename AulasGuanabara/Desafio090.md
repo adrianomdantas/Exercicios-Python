@@ -2,6 +2,6 @@
 
 # Desafio 90  
   
-Faça um programa que lei nome e média de um aluno, guardando também a situação em um dicionário. No final mostre mostre o conteudo da estrutura na tela
+Faça um programa que leia o nome e média de um aluno, guardando também a situação em um dicionário. No final mostre mostre o conteudo da estrutura na tela
 
 [Desafio resolvido](/Desafios/desafio090.py/)
