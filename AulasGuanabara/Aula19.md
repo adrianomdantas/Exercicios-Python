@@ -203,6 +203,15 @@ bahia BA
 Rio RJ 
 Sampa SP
 ```
+# Removendo um item  
 
+Para remover um item, utilizaremos o metodo pop(), porém com o nome da chave  
+```
+cidade = {'uf': 'São Paulo', 'sigla': 'SP'}
+cidade.pop('uf)
+
+print(cidade)
+{'sigla': 'SP'}
+```
 
 [Exemplos Aula 18](Aula18.py)
