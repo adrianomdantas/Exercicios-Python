@@ -13,6 +13,6 @@ for g in gols:
 #print(jogador) 
 print(40 * "=-")
 print(f'O Jogador {jogador["nome"]} jogou {partidas} partidas')
-print(jogador['gols'])
+#print(jogador['gols'])
 for k, v in enumerate(jogador['gols']):
     print(f'{"=>":>5} Na partida {k}, fez {v} gols.')
