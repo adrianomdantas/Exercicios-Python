@@ -164,7 +164,9 @@ print(brasil)
 [{'Uf': 'Rio de Janeiro', 'Sigla': 'RJ'}, {'UF': 'São Paulo', 'Sigla': 'SP'}]
 ```
 Na posição brasil[0] temos uma lista e na posição brasil[1] temos outra lista  
-  
+   
+# Copiar a Dicionário para uma Lista    
+    
 Para copiar um dicionário para dento de uma lista, não podemos usar o [:], temos que usar um metodo copy()  
 exemplo:  
 ```
@@ -178,6 +180,20 @@ print(brasiltodo)
 
 [{'uf': 'São Paulo', 'sigla': 'SP'}, {'uf': 'Rio de Janeiro', 'sigla': 'RJ'}, {'uf': 'Minas Gerais', 'sigla': 'MG'}]
 ```
+  
+# Copiar uma lista para dentro de um Dicionário
+
+```
+jogador['nome'] = str(input('Nomde: '))
+qtd_partidas = int(input(f'Quantas partidas o {jogador["nome"]} jogou? '))
+for i in range(0, qtd_partidas):
+    gols.append(int(input(f'Gols na partida {i}: ')))
+jogador['gols'] = gols.copy()
+
+ptint(jogador)
+{'nome': 'Adriano', 'gols': [2, 1, 0, 0, 0]}
+```
+  
 outro exemplo:  
 ```
 print(brasiltodo)
