@@ -16,7 +16,7 @@ while True:
     
     while True:
         if opcao not in 'SN':
-            opcao = str(input('!ERR!\nDeseja cadastrar outro jogador? [S/N] ' )).strip().upper()            
+            opcao = str(input('!ERRO!\nDeseja cadastrar outro jogador? [S/N] ' )).strip().upper()            
         else:
             break
     if opcao == 'N':
@@ -31,20 +31,23 @@ for i in jogadores:
         i['totgols'] += j
 
 print(40 * '-')    
-print(f'{"cod":>4} {" Nome":<15} {"Gols":<15} {"Total":<25}')
+print(f'{"cod":>4} {"Nome":<15} {"Gols":<15} {"Total":<25}')
 print(40 * '-')
 
 for p, i in enumerate(jogadores):
     print(f'{p:>4} {i["nome"]:<15} {str(i["gols"]):<15} {i["totgols"]:<15}')
 #print(jogadores)
 
+print(40 * '-')
+
 while True:
     print(40 * '-')
-    dadosj = int(input('Mostrar dados de qual jogador? 999 para sair '))
+    dadosj = int(input('Mostrar dados de qual jogador? 999 para sair: '))
     if dadosj >= len(jogadores) and dadosj != 999:
         while True:
             if dadosj >= len(jogadores) and dadosj != 999:
-                dadosj = int(input('!ERRO! não existe este codigo de jogador\nMostrar dados de qual jogador? 999 para sair '))
+                print('!ERRO! este jogador não existe')
+                break
             else:
                 break
     else:
@@ -55,27 +58,11 @@ while True:
                 for t, u in enumerate(d['gols']):
                     print('  ', end=' ')
                     print(f'Na partida {t} fez {u} gols')
+                
     if dadosj == 999:
         break
 print('<< FIM >>')
     
-'''
-while True:
-    print(40 * '-')
-    dadosj = int(input('Mostrar dados de qual jogador? 999 para sair '))
-    if dadosj >= len(jogadores) and dadosj != 999:
-        dadosj = int(input('!ERRO! não existe este codigo de jogador\nMostrar dados de qual jogador? 999 para sair '))
-    else:
-        print(20 * '=-')
-        for p, d in enumerate(jogadores):
-            if p == dadosj:
-                print(f'Levantamento dos dados do jogador {d["nome"]}')
-                for t, u in enumerate(d['gols']):
-                    print('  ', end=' ')
-                    print(f'Na partida {t} fez {u} gols')
-    if dadosj == 999:
-        break
-print('<< FIM >>')'''
 
 
 
