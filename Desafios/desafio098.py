@@ -20,7 +20,7 @@ def contador(a, b, c):
 
 contador(1, 10, 1)
 contador(10, 0, 2)
-print('Agora´é sua vês de personalizar a contagem!')
+print('Agora é sua vês de personalizar a contagem!')
 ini = int(input('Inicio: '))
 fim = int(input('Fim: '))
 passo = int(input('Passo: '))
