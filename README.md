@@ -49,7 +49,8 @@
   - [Desafio 90](AulasGuanabara/Desafio090.md) | [Desafio 91](AulasGuanabara/Desafio091.md) | [Desafio 92](AulasGuanabara/Desafio092.md) | [Desafio 93](AulasGuanabara/Desafio093.md) | [Desafio 94](AulasGuanabara/Desafio094.md) | [Desafio 95](AulasGuanabara/Desafio095.md)
 - [**Funções (Parte 1)**](AulasGuanabara/Aula20.md)
   - [Desafio 96](AulasGuanabara/Desafio096.md) | [Desafio 97](AulasGuanabara/Desafio097.md) | [Desafio 98](AulasGuanabara/Desafio098.md) | [Desafio 99](AulasGuanabara/Desafio099.md) | [Desafio 100](AulasGuanabara/Desafio100.md) 
-- [**Em construção**](AulasGuanabara/Aula21.md)
+- [**Funções (Parte 2)**](AulasGuanabara/Aula21.md)
+  - [Desafio 101](AulasGuanabara/Desafio101.md) | [Desafio 102](AulasGuanabara/Desafio102.md) | [Desafio 103](AulasGuanabara/Desafio103.md) | [Desafio 104](AulasGuanabara/Desafio104.md) | [Desafio 105](AulasGuanabara/Desafio105.md) | [Desafio 106](AulasGuanabara/Desafio106.md) | 
 - [**Em construção**](AulasGuanabara/Aula22.md)
 - [**Em construção**](AulasGuanabara/Aula23.md)
  
