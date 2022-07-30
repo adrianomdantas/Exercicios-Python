@@ -122,7 +122,34 @@ Neste caso, usando a palavra global dentro da função, estaremos considerando a
   
 **Retorno de valores**  
   
+As funções gralmente trabaha nos bastodires, e não printa nada na tela, elas retornam valorem par que o programa manipulem estes valores, por exemplo:  
+```
+def soma(a=0, b=0, c=0):
+    s = a + b + c
+    return s
+    
+r1 = soma(3, 2, 5)
+r2 = soma(2, 3)
+r3 = soma(6)
+```  
+O valor não é printado na tela, porém o valor é armazenado em uma variável, assim o progrma pode maniplar a informação ou até mesmo ser usado em outra função.  
+Retornando True ou False.  
+``` 
+def par(a):
+    if 0 % 2 == 0:
+        return True
+    else:
+        return False
+
+num = (int(input('Digite um número: ')))
+par(num)
+print(par(num))
+
+# o retorno será True ou False
+```  
   
+Podemos retornar, tuplas, listas e Dicionários por exemplo.  
+As possibilidades são inúmeras.
 
 
 
