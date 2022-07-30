@@ -2,10 +2,10 @@
 
 # Funções (Parte 2)  
 
-- **Interactive Help** Ajuda interativa  
-- **Docstrings** documentção do programa  
-- **Argumentos opcionais**  a função sem necessidade de um nomero exato de argumentos
-- **Escopo de variaveis** Quando uma variavel nasce ou morre
+- **Interactive Help** - Ajuda interativa  
+- **Docstrings** - Documentção do programa  
+- **Argumentos opcionais** - A função sem necessidade de um nomero exato de argumentos
+- **Escopo de variaveis** - Quando uma variavel nasce ou morre
 
 **Interactive Help**  
 
