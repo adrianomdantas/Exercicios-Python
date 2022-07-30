@@ -115,7 +115,7 @@ Exemplo de variável local.
   
 Perceba que no programa acima, a variável **a** que está dentro da função, é local e será usada somente dentro da função, e não será considerada a variável **a** que está fora da função 
 
-Exemplo de variável global
+Exemplo de variável global  
 ![](/Imagens/imgaula21doc02.png)  
   
 Neste caso, usando a palavra global dentro da função, estaremos considerando a variavel global dentro da função.
