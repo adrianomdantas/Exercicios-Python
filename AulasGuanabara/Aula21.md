@@ -118,9 +118,11 @@ Perceba que no programa acima, a variável **a** que está dentro da função, �
 Exemplo de variável global  
 ![](/Imagens/imgaula21doc02.png)  
   
-Neste caso, usando a palavra global dentro da função, estaremos considerando a variavel global dentro da função.
-
-
+Neste caso, usando a palavra global dentro da função, estaremos considerando a variavel global dentro da função no escopo local.  
+  
+**Retorno de valores**  
+  
+  
 
 
 
