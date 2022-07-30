@@ -2,7 +2,7 @@
 
 # Desafio 98  
   
-Fça um programa que tenha uma função chamada **contador()**, que receba três parâmetros: inicio, fim e passo e realize a contagem.  
+Faça um programa que tenha uma função chamada **contador()**, que receba três parâmetros: inicio, fim e passo e realize a contagem.  
   
 Seu programa tem que realizar três contagens através da função criada  
   
