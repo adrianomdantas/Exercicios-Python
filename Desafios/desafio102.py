@@ -2,6 +2,12 @@ from posixpath import split
 
 
 def fatorial(n, show=False):
+    """
+    -> Calcula o fatorial de um número
+    :param n: O número a ser calculado
+    :param show: (opcional) mostrar ou não a conta
+    :return: o valor do fatorial de um numero n
+    """
     tot = 1
     list = []
     for i in range(n, 0, -1):
