@@ -2,11 +2,12 @@ def voto(anonasc):
     from datetime import date
     anoatual = date.today().year
     if anoatual - anonasc < 16:
-        print(f'Com {anoatual - anonasc} anos: VOTO NEGADO')
-    elif 17 < anoatual - anonasc < 70:
-        print(f'Com {anoatual - anonasc} anos: VOTO OBRIGATÓRIO')
+        return f'Com {anoatual - anonasc} anos: VOTO NEGADO'
+    elif 17 < anoatual - anonasc < 66:
+        return f'Com {anoatual - anonasc} anos: VOTO OBRIGATÓRIO'
     else:
-        print(f'Com {anoatual - anonasc} anos: VOTO FACULTATIVO')
+        return f'Com {anoatual - anonasc} anos: VOTO FACULTATIVO'
 
+print(20 * '-')
 nascimento = int(input('Digite o seu ano de nascimento: '))
-voto(nascimento)
+print(voto(nascimento))
