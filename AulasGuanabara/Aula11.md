@@ -7,7 +7,7 @@ No pythons, existem diversas maneiras de fazer a scoisas, e neste tópico, vamos
 Style = normal, negrito, sublinhado etc ...  
 Text = Cor dotexto  
 Back = Cor do fundo  
-O basico dos codigos de cores são estes
+O basico dos codigos de cores são estes  
 ![](/Imagens/aula11_img03.png)  
 
 Exemplo:  
