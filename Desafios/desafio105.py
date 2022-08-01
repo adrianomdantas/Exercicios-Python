@@ -32,3 +32,5 @@ def notas(* n, sit=False):
     
 resp = notas(2, 0, 0, 1, 5)
 print(resp)
+total = notas(2, 0, 0, 1, 5, sit=True)
+print(total)
