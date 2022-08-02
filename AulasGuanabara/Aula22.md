@@ -73,4 +73,4 @@ print(f'O dobro de {num} é {numeros.dobro(num)}')
 
 [Exemplos Aula 22](Aula22.py)  
 [Modulo Aula 22](uteis.py)  
-[Pacote Aula 22](/AulasGuanabara/Uteis/)
+[Pacote Aula 22](/AulasGuanabara/Uteis)
