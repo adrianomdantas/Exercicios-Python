@@ -4,7 +4,7 @@
 
 Quando seu programa começa a ficar muito grande mesmmo com funções, podemos separar o programa em modulos (outro arquivo), e para usar usar este modulos, podemos importar estes modulos, e quando temos.  
 Exemplo de Módulo:  
-![](/Imagens/aula21-img01)  
+![](/Imagens/aula21-img01.png)  
 
 Em um arquivo chamado uteis.py colocamos as funções  
 ```
