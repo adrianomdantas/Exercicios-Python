@@ -52,5 +52,6 @@
 - [**Funções (Parte 2)**](AulasGuanabara/Aula21.md)
   - [Desafio 101](AulasGuanabara/Desafio101.md) | [Desafio 102](AulasGuanabara/Desafio102.md) | [Desafio 103](AulasGuanabara/Desafio103.md) | [Desafio 104](AulasGuanabara/Desafio104.md) | [Desafio 105](AulasGuanabara/Desafio105.md) | [Desafio 106](AulasGuanabara/Desafio106.md) | 
 - [**Módulos e Pacotes**](AulasGuanabara/Aula22.md)
+  - [Desafio 107](AulasGuanabara/Desafio107.md) | [Desafio 108](AulasGuanabara/Desafio108.md) | [Desafio 109](AulasGuanabara/Desafio109.md) | [Desafio 110](AulasGuanabara/Desafio110.md) | [Desafio 111](AulasGuanabara/Desafio111.md) | [Desafio 112](AulasGuanabara/Desafio112.md) | 
 - [**Em construção**](AulasGuanabara/Aula23.md)
  
