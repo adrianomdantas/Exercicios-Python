@@ -50,8 +50,9 @@
 - [**Funções (Parte 1)**](AulasGuanabara/Aula20.md)
   - [Desafio 96](AulasGuanabara/Desafio096.md) | [Desafio 97](AulasGuanabara/Desafio097.md) | [Desafio 98](AulasGuanabara/Desafio098.md) | [Desafio 99](AulasGuanabara/Desafio099.md) | [Desafio 100](AulasGuanabara/Desafio100.md) 
 - [**Funções (Parte 2)**](AulasGuanabara/Aula21.md)
-  - [Desafio 101](AulasGuanabara/Desafio101.md) | [Desafio 102](AulasGuanabara/Desafio102.md) | [Desafio 103](AulasGuanabara/Desafio103.md) | [Desafio 104](AulasGuanabara/Desafio104.md) | [Desafio 105](AulasGuanabara/Desafio105.md) | [Desafio 106](AulasGuanabara/Desafio106.md) | 
+  - [Desafio 101](AulasGuanabara/Desafio101.md) | [Desafio 102](AulasGuanabara/Desafio102.md) | [Desafio 103](AulasGuanabara/Desafio103.md) | [Desafio 104](AulasGuanabara/Desafio104.md) | [Desafio 105](AulasGuanabara/Desafio105.md) | [Desafio 106](AulasGuanabara/Desafio106.md) 
 - [**Módulos e Pacotes**](AulasGuanabara/Aula22.md)
-  - [Desafio 107](AulasGuanabara/Desafio107.md) | [Desafio 108](AulasGuanabara/Desafio108.md) | [Desafio 109](AulasGuanabara/Desafio109.md) | [Desafio 110](AulasGuanabara/Desafio110.md) | [Desafio 111](AulasGuanabara/Desafio111.md) | [Desafio 112](AulasGuanabara/Desafio112.md) | 
+  - [Desafio 107](AulasGuanabara/Desafio107.md) | [Desafio 108](AulasGuanabara/Desafio108.md) | [Desafio 109](AulasGuanabara/Desafio109.md) | [Desafio 110](AulasGuanabara/Desafio110.md) | [Desafio 111](AulasGuanabara/Desafio111.md) | [Desafio 112](AulasGuanabara/Desafio112.md) 
 - [**Em construção**](AulasGuanabara/Aula23.md)
+  - | [Desafio 113](AulasGuanabara/Desafio113.md) | [Desafio 114](AulasGuanabara/Desafio114.md) | [Desafio 115](AulasGuanabara/Desafio115.md) 
  
