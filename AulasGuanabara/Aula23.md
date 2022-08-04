@@ -108,7 +108,7 @@ finally:
     print('volte sempre')
 ```
 
-
+[Exemplo da Aula 23](Aula23.py)
 
 
 
