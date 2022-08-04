@@ -95,6 +95,11 @@ O comando **split()** separa uma frase em varias palavras independentes, transfo
 print(frase.split())
 >>> ['Estudar', 'Python']
 ```
+Para eliminar espaços antes e apos dados digitados  
+```
+print(frase.strip())
+```  
+
 Da mesma forma que podemos separar, podemos juntar e ainda escolher o separados de palavras  
 ```
 separar = frase.split()
