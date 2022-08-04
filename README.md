@@ -54,5 +54,5 @@
 - [**Módulos e Pacotes**](AulasGuanabara/Aula22.md)
   - [Desafio 107](AulasGuanabara/Desafio107.md) | [Desafio 108](AulasGuanabara/Desafio108.md) | [Desafio 109](AulasGuanabara/Desafio109.md) | [Desafio 110](AulasGuanabara/Desafio110.md) | [Desafio 111](AulasGuanabara/Desafio111.md) | [Desafio 112](AulasGuanabara/Desafio112.md) 
 - [**Tratamento de Erros e Exceções**](AulasGuanabara/Aula23.md)
-  - | [Desafio 113](AulasGuanabara/Desafio113.md) | [Desafio 114](AulasGuanabara/Desafio114.md) | [Desafio 115](AulasGuanabara/Desafio115.md) 
+  - [Desafio 113](AulasGuanabara/Desafio113.md) | [Desafio 114](AulasGuanabara/Desafio114.md) | [Desafio 115](AulasGuanabara/Desafio115.md) 
  
