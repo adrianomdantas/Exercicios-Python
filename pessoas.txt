@@ -1,6 +1,4 @@
-Funalo
-Beltrano
-Ciclano
-Adriano
-Ronaldinho
-Filomena
+
+Fulano                            5 anos
+Beltrano                         30 anos
+Ciclano                         100 anos
