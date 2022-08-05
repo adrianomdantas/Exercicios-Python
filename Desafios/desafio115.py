@@ -18,7 +18,18 @@ def adicionar():
     with open('pessoas.txt', 'a') as arquivo:
         arquivo.write(f'\n{nome:<25}{idade:>10}{"anos":>5}') 
 
-
+def leiaint(tex):
+    while True:
+        f = input(tex).strip().replace(",",".")
+        if len(f) == 0:
+            print('\033[0;0;31mErro, digite um número válido: \033[m ')
+        elif f.lower()[0] in ' abcdefghijklmnopqrstuvwxyz!@#$%¨&*':
+            print('\033[0;0;31mErro, digite um número válido: \033[m ')
+        else:
+            i = int(f)
+            break
+    return i
+            
 
 while True:
     titulo('MENU PRINCIPAL')
@@ -26,7 +37,7 @@ while True:
     print('\033[0;0;33m2\033[0;0;34m - Cadastrar novas Pessoas\033[m')
     print('\033[0;0;33m3\033[0;0;34m - Sair do Sistema\033[m')
     print(40 * '-')
-    opcao = int(input('Sua Opção: '))
+    opcao = leiaint('Sua Opção: ')
     if opcao not in [1, 2, 3]:
         print('digitou errado')
     elif opcao == 1:
