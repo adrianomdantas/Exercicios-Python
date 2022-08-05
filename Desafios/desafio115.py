@@ -2,6 +2,7 @@ def titulo(msn):
     print(40 * '-')
     print(f'{msn:^40}')
     print(40 * '-')
+
 def consulta():
     titulo('PESSOAS CADASTRADAS')
     with open('pessoas.txt', 'r', encoding='UTF-8') as arquivo:
@@ -39,7 +40,7 @@ while True:
     print(40 * '-')
     opcao = leiaint('Sua Opção: ')
     if opcao not in [1, 2, 3]:
-        print('digitou errado')
+        print('Opção não existe')
     elif opcao == 1:
         consulta()
     elif opcao == 2:
