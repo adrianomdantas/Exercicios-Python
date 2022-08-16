@@ -1,9 +1,8 @@
-from ssl import ALERT_DESCRIPTION_NO_RENEGOTIATION
-from typing import Type
+
 
 
 algo = input('Digite Algo: ')
-print('O tirpo primitivo deste valor é: ',type(algo))
+print('O tipo primitivo deste valor é: ',type(algo))
 print('Só tem espaços? ', algo.isspace())
 print('É um número? ', algo.isnumeric())
 print('É Alfabético? ', algo.isalpha())

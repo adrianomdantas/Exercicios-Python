@@ -1,4 +1,4 @@
-from math import sin, tan, cos , degrees, radians
+from math import sin, tan, cos , radians
 ang = float(input('Digite um ângulo: '))
 rad = radians(ang)
 seno = sin(rad)

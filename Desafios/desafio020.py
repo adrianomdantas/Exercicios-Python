@@ -1,7 +1,5 @@
 from random import shuffle
-from string import printable
 
-from click import edit
 nome1 = (input('Digite o nome do 1° aluno: '))
 nome2 = (input('Digite o nome do 2° aluno: '))
 nome3 = (input('Digite o nome do 3° aluno: '))

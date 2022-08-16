@@ -1,5 +1,5 @@
 #minha solução
-cidade = str(input('Digite o nome de uma ciadade: ')).upper()
+cidade = str(input('Digite o nome de uma ciadade: ')).strip().upper()
 print('SÃO' in cidade[0:5])
 
 #Solução do Guanabara

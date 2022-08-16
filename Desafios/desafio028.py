@@ -6,3 +6,4 @@ if ncomput == player:
     print(f'Parabém, eu pensei exatamente no número {ncomput}')
 else:
     print(f'Errou, eu pensei em {ncomput} e você digitou {player}')
+    

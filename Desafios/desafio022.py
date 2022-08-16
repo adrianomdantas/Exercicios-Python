@@ -1,4 +1,4 @@
-nome = input('Digite seu nome inteiro: ')
+nome = input('Digite seu nome inteiro: ').strip()
 print(f'Letras maiusculas: {nome.upper()}')
 print(f'Letras minusculas: {nome.lower()}')
 tamanho_nome = len(nome)

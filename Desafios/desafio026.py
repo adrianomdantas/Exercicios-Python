@@ -1,5 +1,5 @@
 # minha solução
-frase = input('Digite uma frase qualquer: ')
+frase = input('Digite uma frase qualquer: ').upper()
 cont = frase.count('a')
 primeira = frase.find('a')
 ultima = frase.rfind('a')
